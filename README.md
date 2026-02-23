@@ -8,6 +8,11 @@ Right Arrow - Move Right
 Space - Change Color  
 
 ## Run the Game
+
+```bash
 pip install -r requirements.txt
+
 python orb.py
+```
+
 
